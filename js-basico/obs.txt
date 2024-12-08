@@ -1,0 +1,12 @@
+1 - console.log
+2 - variáveis
+3 - tipos de dados
+4 - operadores aritméticos, incremento e de atribuição
+5 - alert, confirm e prompt
+6 - strings
+7- numbers
+8 - Math
+9 - arrays
+10 - arrays
+11 - objetos
+12 - valores primitivos e valores por referência
